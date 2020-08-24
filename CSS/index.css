@@ -1,0 +1,23 @@
+body {
+  background: url("https://images.unsplash.com/photo-1502091791712-a43262c96f9b?ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80"););
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.container-lg, .container {
+  margin-top: 10%;
+}
+
+#transparent-card {
+  background-color: rgba(255,255,255,0.5);
+}
+
+.form-group {
+  width: 50%;
+  margin: auto;
+}
+
+button {
+  margin-left: 25%;
+  margin-top: 10px
+}
