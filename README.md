@@ -1,3 +1,4 @@
 # serjykalstryke.github.io
 
-A README FOR MY HELLO WORLD HTML
+This is my hosted GitHub pages repository. I will have a variety of projects here
+From my coding bootcamp at University of Richmond 
