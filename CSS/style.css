@@ -1,6 +1,7 @@
 body {
     background-image:url("../assets/Desert-Evening-Desktop-Wallpaper.png");
-    /* background: #333333; */
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 .jumboText {
