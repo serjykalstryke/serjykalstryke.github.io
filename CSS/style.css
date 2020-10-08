@@ -1,7 +1,13 @@
+* {
+    font-family: Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+
+
 body {
     background-image:url("../assets/Desert-Evening-Desktop-Wallpaper.png");
-    /* background-repeat: no-repeat; */
     background-attachment: fixed;
+    background-size: 2650px 1440px;
+    -webkit-background-size: 2650px 1440px;
 }
 
 .jumboText {
