@@ -10,9 +10,7 @@ This is my hosted portfolio. On the github pages site, I display my progress in 
   - [Usage](#usage)
   - [Licence](#licence)
   - [Contributors](#contributors)
-  - [Test](#test)
   - [Repository](#repository)
-  - [Sample of application in action](#sample-of-application-in-action)
   - [Questions? Contact me here:](#questions-contact-me-here)
 ## Installation
 Feel free to clone this repository if you want some help getting started on your own web developer portfolio
@@ -28,9 +26,6 @@ Feel free to clone this repository if you want some help getting started on your
 GNU GPLv3
 ## Contributors
 David Stinnett
-
-
-## Test
 
 ## Repository
 - [Project Repo](https://github.com/serjykalstryke/serjykalstryke.github.io)
