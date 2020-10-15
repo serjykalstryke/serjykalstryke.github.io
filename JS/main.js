@@ -8,7 +8,7 @@ $(document).ready(function () {
 
 
 function populateMain() {
-    $("#mainContent").append('<br><br><div class="jumbotron text-center hoverable p-4" style="background-color: rgba(0,0,0,0)"><div class="row"><div class="col-md-4 offset-md-1 mx-3 my-3"><div class="view overlay"><img src="https://mdbootstrap.com/img/Photos/Others/laptop-sm.jpg" class="img-fluid"alt="" style="padding-top: 10%"><a><div class="mask rgba-white-slight"></div></a></div></div><div class="col-md-7 text-md-left ml-3 mt-3"><a href="#!" class="green-text"></a><h4 class="h1 mb-4 jumboText">A goal is just a dream with a deadline</h4><p class="font-weight-normal jumboText">I am a coding student in the University of Richmond Coding Bootcamp, and this is where you can follow my journey to become a professional Web Developer</p></div></div></div>')
+    $("#mainContent").append('<br><br><div class="jumbotron text-center hoverable p-4" style="background-color: rgba(0,0,0,0)"><div class="row"><div class="col-md-4 offset-md-1 mx-3 my-3"><div class="view overlay"><img src="./assets/0.jpeg" class="img-fluid"alt="" style="padding-top: 10%"><a><div class="mask rgba-white-slight"></div></a></div></div><div class="col-md-7 text-md-left ml-3 mt-3"><a href="#!" class="green-text"></a><h4 class="h1 mb-4 jumboText">A goal is just a dream with a deadline</h4><p class="font-weight-normal jumboText">I am a coding student in the University of Richmond Coding Bootcamp, and this is where you can follow my journey to become a professional Web Developer</p></div></div></div>')
 }
 
 function populateNav() {
@@ -52,7 +52,7 @@ function portfolioCards() {
 
 function aboutMe() {
     $('#aboutMe').append(
-        '<div class="jumbotron" style="background: rgba(0,0,0,.25)">' + '<div class="col-md-4 offset-md-1 mx-3 my-3"><div class="view overlay"><img src="https://mdbootstrap.com/img/Photos/Others/laptop-sm.jpg" class="img-fluid"alt=""><a><div class="mask rgba-white-slight"></div></a></div></div>' +
+        '<div class="jumbotron" style="background: rgba(0,0,0,.25)">' + '<div class="col-md-4 offset-md-1 mx-3 my-3"><div class="view overlay"><img src="./assets/0.jpeg" class="img-fluid"alt=""><a><div class="mask rgba-white-slight"></div></a></div></div>' +
   '<h1 class="display-4 jumboText">Hello, world!</h1>' +
   '<p class="lead jumboText">My name is David Stinnett, I am a husband and a father, and this is the primary focus of my life. Along with that, I am also a student at the University of Richmond\'s Coding Bootcamp. I am learning about HTML, CSS, Javascript, and various methodologies and libraries related to those technologies.</p>' +
   '<hr class="my-4">' +
