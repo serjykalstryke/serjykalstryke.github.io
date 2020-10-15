@@ -15,18 +15,20 @@ This is my hosted portfolio. On the github pages site, I display my progress in 
   - [Sample of application in action](#sample-of-application-in-action)
   - [Questions? Contact me here:](#questions-contact-me-here)
 ## Installation
-
+Feel free to clone this repository if you want some help getting started on your own web developer portfolio
 
 
 
 ## Usage
-
+[Click this link to the deployed page to see my Portfolio](https://serjykalstryke.github.io)
 
 
 
 ## Licence
 GNU GPLv3
 ## Contributors
+David Stinnett
+
 
 ## Test
 
