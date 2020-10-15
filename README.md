@@ -22,9 +22,7 @@ This is my hosted portfolio. On the github pages site, I display my progress in 
 ## Usage
 
 
-[![How to use ReadMe Generator]()]()
 
-![How to use ReadMe Generator](./assets/readmegenerator.gif)
 
 ## Licence
 GNU GPLv3
