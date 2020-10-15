@@ -35,16 +35,6 @@ David Stinnett
 ## Repository
 - [Project Repo](https://github.com/serjykalstryke/serjykalstryke.github.io)
 
-## Sample of application in action
-![Application in action](./assets/0nodeindex.png)
-![Application in action](./assets/1title.png)
-![Application in action](./assets/2description.png)
-![Application in action](./assets/3license.png)
-![Application in action](./assets/4test.png)
-![Application in action](./assets/5email.png)
-![Application in action](./assets/6repo.png)
-![Application in action](./assets/7success.png)
-
 ## Questions? Contact me here:
 ![Image of me](https://avatars2.githubusercontent.com/u/68971513?v=4)
 - David Stinnett
