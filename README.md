@@ -17,7 +17,7 @@ This is my hosted portfolio. On the github pages site, I display my progress in 
 ## Installation
 
 
-[![Installation Image](./assets/installation.png)
+[![Installation Image]()
 
 ## Usage
 
