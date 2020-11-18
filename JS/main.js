@@ -61,7 +61,7 @@ function portfolioCards() {
     '<div class="card" style="background: rgba(0,0,0,.25)">' +
       '<img class="card-img-top" src="../assets/Screenshot from 2020-11-17 21-29-47.png" alt="Card image cap">' +
       '<div class="card-body">' +
-        '<h5 class="card-title jumboText">Quiz Application</h5>' +
+        '<h5 class="card-title jumboText">Burger Time!</h5>' +
         '<p class="card-text jumboText">This is a basic quiz application built using javascript. It uses an array of questions, a timer function, and adds to user score for correct answers. Users can save high scores to local storage</p>'  +
         '<div class="card-footer">' + 
         '<a href="https://polar-eyrie-61177.herokuapp.com/"><button class="btn btn-primary">View Deployed Application</button></a>' +
